@@ -1,3 +1,3 @@
-# python-helloworld
+# code-scanning-with-codeql
 
-Sample app to checkout github actions.
+This is my goto public repo to test code-scanning/codeQL.
